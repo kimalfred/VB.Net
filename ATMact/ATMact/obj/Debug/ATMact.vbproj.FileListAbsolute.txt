@@ -1,0 +1,11 @@
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\bin\Debug\ATMact.exe.config
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\bin\Debug\ATMact.exe
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\bin\Debug\ATMact.pdb
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\bin\Debug\ATMact.xml
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.vbproj.AssemblyReference.cache
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.Resources.resources
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.vbproj.GenerateResource.cache
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.vbproj.CoreCompileInputs.cache
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.exe
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.xml
+C:\Users\Kim Alfred\source\repos\ATMact\ATMact\obj\Debug\ATMact.pdb
